@@ -1,0 +1,1651 @@
+Pat	O'Donnell	Chicago Bears
+Tarik	Cohen	Chicago Bears
+Sam	 Bradford	Minnesota Vikings
+Johnny	 Hekker	Los Angeles Rams
+Lachlan	 Edwards	New York Jets
+Robert	 Golden	Pittsburgh Steelers
+Sean	 Mannion	Los Angeles Rams
+Alex	 Smith	Kansas City Chiefs
+Tom	 Brady	New England Patriots
+Kirk	 Cousins	Washington Redskins
+Aaron	 Rodgers	Green Bay Packers
+Ryan	 Mallett	Baltimore Ravens
+Deshaun	 Watson	Houston Texans
+Drew	 Brees	New Orleans Saints
+Carson	 Wentz	Philadelphia Eagles
+Russell	 Wilson	Seattle Seahawks
+Ryan	 Fitzpatrick	Tampa Bay Buccaneers
+Dak	 Prescott	Dallas Cowboys
+Josh	 McCown	New York Jets
+Tyrod	 Taylor	Buffalo Bills
+Matt	 Ryan	Atlanta Falcons
+Derek	 Carr	Oakland Raiders
+Jared	 Goff	Los Angeles Rams
+Matthew	 Stafford	Detroit Lions
+Case	 Keenum	Minnesota Vikings
+Philip	 Rivers	Los Angeles Chargers
+Jameis	 Winston	Tampa Bay Buccaneers
+Andy	 Dalton	Cincinnati Bengals
+Eli	 Manning	New York Giants
+Blake	 Bortles	Jacksonville Jaguars
+Carson	 Palmer	Arizona Cardinals
+Marcus	 Mariota	Tennessee Titans
+Ben	 Roethlisberger	Pittsburgh Steelers
+Jacoby	 Brissett	Indianapolis Colts
+Cam	 Newton	Carolina Panthers
+Jay	 Cutler	Miami Dolphins
+Mike	 Glennon	Chicago Bears
+Trevor	 Siemian	Denver Broncos
+Brian	 Hoyer	San Francisco 49ers
+Joe	 Flacco	Baltimore Ravens
+E.J.	 Manuel	Oakland Raiders
+Kevin	an	Cleveland Browns
+Tom	 Savage	Houston Texans
+Mitchell	 Trubisky	Chicago Bears
+Matt	 Moore	Miami Dolphins
+C.J.	 Beathard	San Francisco 49ers
+Brock	 Osweiler	Denver Broncos
+Cooper	 Rush	Dallas Cowboys
+Matt	 Cassel	Tennessee Titans
+DeShone	 Kizer	Cleveland Browns
+Cody	 Kessler	Cleveland Browns
+Brett	ey	Green Bay Packers
+Derek	 Anderson	Carolina Panthers
+Chad	 Henne	Jacksonville Jaguars
+Jarvis	 Landry	Miami Dolphins
+MarQueis	 Gray	Miami Dolphins
+Ryan	 Quigley	Minnesota Vikings
+Marqise	 Lee	Jacksonville Jaguars
+Scott	 Tolzien	Indianapolis Colts
+Drew	 Stanton	Arizona Cardinals
+Tyreek	 Hill	Kansas City Chiefs
+Matt	 Haack	Miami Dolphins
+Tanner	 McEvoy	Seattle Seahawks
+Marqise	 Lee	Jacksonville Jaguars
+Curtis	 Samuel	Carolina Panthers
+J.J.	 Nelson	Arizona Cardinals
+T.J.	 Yeldon	Jacksonville Jaguars
+Cordarrelle	 Patterson	Oakland Raiders
+Damiere	 Byrd	Carolina Panthers
+John	 Ross	Cincinnati Bengals
+Brett	 Hundley	Green Bay Packers
+Adam	 Thielen	Minnesota Vikings
+Randall	 Cobb	Green Bay Packers
+John	 Brown	Arizona Cardinals
+Kasey	 Redfern	Detroit Lions
+Michael	 Campanaro	Baltimore Ravens
+Travis	in	Los Angeles Chargers
+Alfred	Morris	Dallas Cowboys
+Ted	Ginn	New Orleans Saints
+Odell	Beckham	New York Giants
+Tommylee	Lewis	New Orleans Saints
+E.J.	Manuel	Oakland Raiders
+Deshaun	Watson	Houston Texans
+Mitchell	Trubisky	Chicago Bears
+Martavis	Bryant	Pittsburgh Steelers
+Kevin	Hogan	Cleveland Browns
+Phillip	Dorsett	New England Patriots
+C.J.	Beathard	San Francisco 49ers
+Corey	Grant	Jacksonville Jaguars
+Michael	Burton	Chicago Bears
+Rod	Smith	Dallas Cowboys
+Blake	Bortles	Jacksonville Jaguars
+Cooper	Rush	Dallas Cowboys
+Jamison	Crowder	Washington Redskins
+Case	Keenum	Minnesota Vikings
+Tyler	Lockett	Seattle Seahawks
+Marquise	Goodwin	San Francisco 49ers
+Robert	Woods	Los Angeles Rams
+ArDarius	Stewart	New York Jets
+Bryce	Treggs	Cleveland Browns
+Bruce	Ellington	Houston Texans
+Alex	Collins	Baltimore Ravens
+Alvin	Kamara	New Orleans Saints
+Kyle	JuszczykK. Juszczyk	San Francisco 49ers
+Bernard Reedy	Tampa Bay Buccaneers
+Chris	Hogan	New England Patriots
+Aaron	Jones	Green Bay Packers
+Austin	Ekeler	Los Angeles Chargers
+Tavon	Austin	Los Angeles Rams
+Russell	Wilson	Seattle Seahawks
+Orleans	Darkwa	New York Giants
+Tevin	Coleman	Atlanta Falcons
+Matt	Ryan	Atlanta Falcons
+Kirk	Cousins	Washington Redskins
+David	Fluellen	Tennessee Titans
+Kareem	Hunt	Kansas City Chiefs
+Matthew	Stafford	Detroit Lions
+Taywan	Taylor	Tennessee Titans
+Duke	Johnson	Cleveland Browns
+Devontae	Booker	Denver Broncos
+Raheem	Mostert	San Francisco 49ers
+Josh	Ferguson	Indianapolis Colts
+James	Conner	Pittsburgh Steelers
+Chris	Thompson	Washington Redskins
+Carson	Wentz	Philadelphia Eagles
+Alex	Smith	Kansas City Chiefs
+Dalvin	Cook	Minnesota Vikings
+Bilal	Powell	New York Jets
+Jamaal	Charles	Denver Broncos
+Dion	Lewis	New England Patriots
+LeGarrette	Blount	Philadelphia Eagles
+Aaron	Rodgers	Green Bay Packers
+Charcandrick	West	Kansas City Chiefs
+Leonard	Fournette	Jacksonville Jaguars
+Devonta	Freeman	Atlanta Falcons
+Will	Fuller	Houston Texans
+Jalen	Richard	Oakland Raiders
+C.J.	Anderson	Denver Broncos
+DeShone	Kizer	Cleveland Browns
+Mark	Ingram	New Orleans Saints
+Sterling	Shepard	New York Giants
+Todd	Gurley	Los Angeles Rams
+James	White	New England Patriots
+Benny	Cunningham	Chicago Bears
+Rex	Burkhead	New England Patriots
+Marlon	Mack	Indianapolis Colts
+Cam	Newton	Carolina Panthers
+Chris	Carson	Seattle Seahawks
+Matt	Forte	New York Jets
+Tarik	Cohen	Chicago Bears
+Jacoby	Brissett	Indianapolis Colts
+Ezekiel	Elliott	Dallas Cowboys
+Eli	Manning	New York Giants
+Tyrod	Taylor	Buffalo Bills
+Adrian	Peterson	Arizona Cardinals
+Giovani	Bernard	Cincinnati Bengals
+Jerick	McKinnon	Minnesota Vikings
+J.D.	McKissic	Seattle Seahawks
+D'Onta	Foreman	Houston Texans
+Jordan	Howard	Chicago Bears
+Peyton	Barber	Tampa Bay Buccaneers
+Darren	Sproles	Philadelphia Eagles
+Carlos	Hyde	San Francisco 49ers
+Melvin	Gordon	Los Angeles Chargers
+Rashard	Higgins	Cleveland Browns
+Isaiah	McKenzie	Denver Broncos
+Drew	Stanton	Arizona Cardinals
+Danny	Woodhead	Baltimore Ravens
+Amari	Cooper	Oakland Raiders
+Mohamed	Sanu	Atlanta Falcons
+De'Anthony	Thomas	Kansas City Chiefs
+Mike	Wallace	Baltimore Ravens
+Le'Veon	Bell	Pittsburgh Steelers
+Wayne	Gallman	New York Giants
+Elijah	McGuire	New York Jets
+Matt	Breida	San Francisco 49ers
+Charles	Sims	Tampa Bay Buccaneers
+Trevor	Siemian	Denver Broncos
+Doug	Martin	Tampa Bay Buccaneers
+Andre	Ellington	Arizona Cardinals
+Rob	Kelley	Washington Redskins
+Mike	Tolbert	Buffalo Bills
+Wendell	Smallwood	Philadelphia Eagles
+Marshawn	Lynch	Oakland Raiders
+Malcolm	Brown	Los Angeles Rams
+Chris	Ivory	Jacksonville Jaguars
+Derek	Carr	Oakland Raiders
+Alfred	Blue	Houston Texans
+Frank	Gore	Indianapolis Colts
+LeSean	McCoy	Buffalo Bills
+Shane	Vereen	New York Giants
+Ameer	Abdullah	Detroit Lions
+Corey	Clement	Philadelphia Eagles
+Mack	Brown	Washington Redskins
+Mike	Gillislee	New England Patriots
+Jamize	Olawale	Oakland Raiders
+Javorius	Allen	Baltimore Ravens
+Lamar	Miller	Houston Texans
+Jacquizz	Rodgers	Tampa Bay Buccaneers
+Terrance	West	Baltimore Ravens
+Travis	Kelce	Kansas City Chiefs
+Jared	Goff	Los Angeles Rams
+Isaiah	Crowell	Cleveland Browns
+Jay	Ajayi	Miami Dolphins
+Brandin	Cooks	New England Patriots
+Alex	Erickson	Cincinnati Bengals
+Jameis	Winston	Tampa Bay Buccaneers
+Jamaal	Williams	Green Bay Packers
+Latavius	Murray	Minnesota Vikings
+Jeremy	Hill	Cincinnati Bengals
+Ty	Montgomery	Green Bay Packers
+Branden	Oliver	Los Angeles Chargers
+Samaje	Perine	Washington Redskins
+Golden	Tate	Detroit Lions
+Tyler	Ervin	Houston Texans
+Darrius	Heyward-Bey	Pittsburgh Steelers
+Ryan	Switzer	Dallas Cowboys
+Akeem	Hunt	Kansas City Chiefs
+Adrian	Peterson	New Orleans Saints
+Travaris	Cadet	New York Jets
+Jalston	Fowler	Tennessee Titans
+Aaron	Ripkowski	Green Bay Packers
+Jonathan	Stewart	Carolina Panthers
+Joe	Mixon	Cincinnati Bengals
+Dwayne	Washington	Detroit Lions
+Jay	Cutler	Miami Dolphins
+Kenjon	Barner	Philadelphia Eagles
+Matt	Jones	Indianapolis Colts
+Theo	Riddick	Detroit Lions
+DeAndre	Washington	Oakland Raiders
+Andy	Dalton	Cincinnati Bengals
+Josh	McCown	New York Jets
+Damien	Williams	Miami Dolphins
+Eddie	Lacy	Seattle Seahawks
+Chris	Johnson	Arizona Cardinals
+Fozzy	Whittaker	Carolina Panthers
+C.J.	Prosise	Seattle Seahawks
+Kenyan	Drake	Miami Dolphins
+Andy	Janovich	Denver Broncos
+Ryan	Fitzpatrick	Tampa Bay Buccaneers
+Tyreek	Hill	Kansas City Chiefs
+Christian	McCaffrey	Carolina Panthers
+Robert	Turbin	Indianapolis Colts
+Matt	Dayes	Cleveland Browns
+Kerwynn	Williams	Arizona Cardinals
+David	Johnson	Arizona Cardinals
+John	Kuhn	New Orleans Saints
+Maxx	Williams	Baltimore Ravens
+Albert	Wilson	Kansas City Chiefs
+Cameron	Artis-Payne	Carolina Panthers
+Thomas	Rawls	Seattle Seahawks
+Paul	Perkins	New York Giants
+Tom	Brady	New England Patriots
+Terrell	Watson	Pittsburgh Steelers
+Zach	Zenner	Detroit Lions
+Brian	Hoyer	San Francisco 49ers
+Taylor	Gabriel	Atlanta Falcons
+Mike	Glennon	Chicago Bears
+Justin	Davis	Los Angeles Rams
+Robby	Anderson	New York Jets
+Vince	Mayle	Baltimore Ravens
+De'Angelo	Henderson	Denver Broncos
+Elijhaa	Penny	Arizona Cardinals
+David	Njoku	Cleveland Browns
+Scott	Tolzien	Indianapolis Colts
+Joe	Flacco	Baltimore Ravens
+Carson	Palmer	Arizona Cardinals
+C.J.	Ham	Minnesota Vikings
+Philip	Rivers	Los Angeles Chargers
+Drew	Brees	New Orleans Saints
+C.J.	Spiller	Kansas City Chiefs
+Tommy	Bohanon	Jacksonville Jaguars
+Matt	Bosher	Atlanta Falcons
+Derek	Watt	Los Angeles Chargers
+Lawrence	Thomas	New York Jets
+Kaelin	Clay	Buffalo Bills
+Deonte	Thompson	Buffalo Bills
+Ben	Roethlisberger	Pittsburgh Steelers
+Ryan	Mallett	Baltimore Ravens
+Stefon	Diggs	Minnesota Vikings
+Delanie	Walker	Tennessee Titans
+Niles	Paul	Washington Redskins
+Nick	Foles	Philadelphia Eagles
+Chad	Henne	Jacksonville Jaguars
+Austin	Davis	Seattle Seahawks
+Cody	Kessler	Cleveland Browns
+Brock	Osweiler	Denver Broncos
+Sam	Bradford	Minnesota Vikings
+Sean	Mannion	Los Angeles Rams
+Patrick	DiMarco	Buffalo Bills
+Torrey	Smith	Philadelphia Eagles
+Doug	Baldwin	Seattle Seahawks
+Marquette	King	Oakland Raiders
+Rishard	Matthews	Tennessee Titans
+Chris	Moore	Baltimore Ravens
+Jarvis	Landry	Miami Dolphins
+Tavarres	King	New York Giants
+Chris	Thompson	Washington Redskins
+Christian	McCaffrey	Carolina Panthers
+Duke	Johnson	Cleveland Browns
+Antonio	Brown	Pittsburgh Steelers
+James	White	New England Patriots
+Kareem	Hunt	Kansas City Chiefs
+LeSean	McCoy	Buffalo Bills
+Le'Veon	Bell	Pittsburgh Steelers
+Melvin	Gordon	Los Angeles Chargers
+Todd	Los Angeles Rams
+Golden	Tate	Detroit Lions
+Jerick	McKinnon	Minnesota Vikings
+Mark	Ingram	New Orleans Saints
+Ezekiel	Elliott	Dallas Cowboys
+Tyreek	Hill	Kansas City Chiefs
+JuJu	Smith-Schuster	Pittsburgh Steelers
+Larry	Fitzgerald	Arizona Cardinals
+Alvin	Kamara	New Orleans Saints
+Travis	Kelce	Kansas City Chiefs
+Matt	Forte	New York Jets
+Joe	Mixon	Cincinnati Bengals
+Keenan	Allen	Los Angeles Chargers
+Theo	Riddick	Detroit Lions
+Julio	Jones	Atlanta Falcons
+Rob	Gronkowski	New England Patriots
+Pierre	Garcon	San Francisco 49ers
+Carlos	Hyde	San Francisco 49ers
+Ty	Montgomery	Green Bay Packers
+Andre	Ellington	Arizona Cardinals
+Marqise	Lee	Jacksonville Jaguars
+Isaiah	Crowell	Cleveland Browns
+Jarvis	Landry	Miami Dolphins
+Vernon	Davis	Washington Redskins
+Giovani	Bernard	Cincinnati Bengals
+Chris	Hogan	New England Patriots
+Jalen	Richard	Oakland Raiders
+DeAndre	Hopkins	Houston Texans
+Jack	Doyle	Indianapolis Colts
+A.J.	Green	Cincinnati Bengals
+Lamar	Miller	Houston Texans
+Amari	Cooper	Oakland Raiders
+Evan	Engram	New York Giants
+Randall	Cobb	Green Bay Packers
+Tarik	Cohen	Chicago Bears
+Robby	Anderson	New York Jets
+Adam	Thielen	Minnesota Vikings
+Nelson	Agholor	Philadelphia Eagles
+Ed	Dickson	Carolina Panthers
+Tyrell	Williams	Los Angeles Chargers
+Chris	Ivory	Jacksonville Jaguars
+Rishard	Matthews	Tennessee Titans
+Adam	Humphries	Tampa Bay Buccaneers
+Zach	Ertz	Philadelphia Eagles
+Jared	Cook	Oakland Raiders
+T.Y.	Hilton	Indianapolis Colts
+Michael Thomas	New Orleans Saints
+Marlon	Mack	Indianapolis Colts
+Jamison	Crowder	Washington Redskins
+Bilal	Powell	New York Jets
+Javorius	Allen	Baltimore Ravens
+Dez	Bryant	Dallas Cowboys
+Shane	Vereen	New York Giants
+Cooper	Kupp	Los Angeles Rams
+Davante	Adams	Green Bay Packers
+DeSean	Jackson	Tampa Bay Buccaneers
+Danny	Amendola	New England Patriots
+Charles	Clay	Buffalo Bills
+Demaryius	Thomas	Denver Broncos
+Tevin	Coleman	Atlanta Falcons
+Austin	Hooper	Atlanta Falcons
+George	Kittle	San Francisco 49ers
+Martellus	Bennett	Green Bay Packers
+Devin	Funchess	Carolina Panthers
+Taylor	Gabriel	Atlanta Falcons
+Alshon	Jeffery	Philadelphia Eagles
+Michael	Crabtree	Oakland Raiders
+Doug	Baldwin	Seattle Seahawks
+Hunter	Henry	Los Angeles Chargers
+Jimmy	Graham	Seattle Seahawks
+Allen	Hurns	Jacksonville Jaguars
+Sterling	Shepard	New York Giants
+Jordan	Matthews	Buffalo Bills
+Kyle	Rudolph	Minnesota Vikings
+Terrance	Williams	Dallas Cowboys
+Albert	Wilson	Kansas City Chiefs
+Eric	Ebron	Detroit Lions
+Austin	Ekeler	Los Angeles Chargers
+Robert Woods	Los Angeles Rams
+Travis	Benjamin	Los Angeles Chargers
+Nick	Boyle	Baltimore Ravens
+DeAndre	Washington	Oakland Raiders
+Dalvin	Cook	Minnesota Vikings
+Brandin	Cooks	New England Patriots
+Brandon	Coleman	New Orleans Saints
+Jesse	James	Pittsburgh Steelers
+Nick	O'Leary	Buffalo Bills
+Devontae	Booker	Denver Broncos
+Kelvin	Benjamin	Carolina Panthers
+Benjamin	Watson	Baltimore Ravens
+Stefon	Diggs	Minnesota Vikings
+Trent	Taylor	San Francisco 49ers
+Jermaine	Kearse	New York Jets
+Ryan	Grant	Washington Redskins
+C.J.	Anderson	Denver Broncos
+Brandon	LaFell	Cincinnati Bengals
+Seth	Devalve	Cleveland Browns
+Jordan	Howard	Chicago Bears
+Cameron	Brate	Tampa Bay Buccaneers
+Devonta	Freeman	Atlanta Falcons
+Emmanuel	Sanders	Denver Broncos
+Charles	Sims	Tampa Bay Buccaneers
+Tyler	Lockett	Seattle Seahawks
+Sammy	Watkins	Los Angeles Rams
+Matt	Breida	San Francisco 49ers
+Austin	Seferian-Jenkins	New York Jets
+Mike	Evans	Tampa Bay Buccaneers
+Jeremy	Maclin	Baltimore Ravens
+Darren	Sproles	Philadelphia Eagles
+O.J.	Howard	Tampa Bay Buccaneers
+Tyler	Kroft	Cincinnati Bengals
+Ryan	Griffin	Houston Texans
+Gerald	Everett	Los Angeles Rams
+Delanie	Walker	Tennessee Titans
+Jonnu	Smith	Tennessee Titans
+Bennie	Fowler	Denver Broncos
+Mohamed	Sanu	Atlanta Falcons
+DeMarco	Murray	Tennessee Titans
+Jordan	Reed	Washington Redskins
+Zach	Miller	Chicago Bears
+David	Njoku	Cleveland Browns
+Wendell	Smallwood	Philadelphia Eagles
+Robert	Turbin	Indianapolis Colts
+A.J.	Derby	Denver Broncos
+Ameer	Abdullah	Detroit Lions
+Jay	Ajayi	Miami Dolphins
+Elijah	McGuire	New York Jets
+Jason	Witten	Dallas Cowboys
+Darren	Fells	Detroit Lions
+Odell	Beckham	New York Giants
+Charcandrick	West	Kansas City Chiefs
+Eric	Tomlinson	New York Jets
+Dion	Lewis	New England Patriots
+Geronimo	Allison	Green Bay Packers
+Kyle	Juszczyk	San Francisco 49ers
+Ricardo	Louis	Cleveland Browns
+De'Anthony	Thomas	Kansas City Chiefs
+Benny	Cunningham	Chicago Bears
+Martavis	Bryant	Pittsburgh Steelers
+Virgil	Green	Denver Broncos
+Rashard	Higgins	Cleveland Browns
+Josh	Hill	New Orleans Saints
+Torrey	Smith	Philadelphia Eagles
+Jacquizz	Rodgers	Tampa Bay Buccaneers
+Russell	Shepard	Carolina Panthers
+Stephen	Anderson	Houston Texans
+Will	Fuller	Houston Texans
+Marvin	Jones	Detroit Lions
+Jaron	Brown	Arizona Cardinals
+Wayne	Gallman	New York Giants
+Jeremy	Kerley	New York Jets
+Jonathan	Stewart	Carolina Panthers
+Jamaal	Charles	Denver Broncos
+Jordy	Nelson	Green Bay Packers
+D'Onta	Foreman	Houston Texans
+Cole	Beasley	Dallas Cowboys
+Kendall	Wright	Chicago Bears
+Latavius	Murray	Minnesota Vikings
+Julius	Thomas	Miami Dolphins
+Terrelle	Pryor	Washington Redskins
+Malcolm	Brown	Los Angeles Rams
+Tyler	Higbee	Los Angeles Rams
+Michael	Campanaro	Baltimore Ravens
+Tre	Madden	Seattle Seahawks
+Marquise	Goodwin	San Francisco 49ers
+Marcedes	Lewis	Jacksonville Jaguars
+Tre	McBride	Chicago Bears
+C.J.	Prosise	Seattle Seahawks
+Donte	Moncrief	Indianapolis Colts
+Brittan	Golden	Arizona Cardinals
+Paul	Perkins	New York Giants
+Tavon	Austin	Los Angeles Rams
+Luke	Willson	Seattle Seahawks
+DeVante	Parker	Miami Dolphins
+Brandon	Williams	Indianapolis Colts
+Dion	Sims	Chicago Bears
+J.D.	McKissic	Seattle Seahawks
+Phillip	Dorsett	New England Patriots
+Bruce	Ellington	Houston Texans
+Kamar	Aiken	Indianapolis Colts
+David	Johnson	Arizona Cardinals
+Chris	Carson	Seattle Seahawks
+TJ	Jones	Detroit Lions
+Damien	Williams	Miami Dolphins
+Chris	Conley	Kansas City Chiefs
+Paul	Richardson	Seattle Seahawks
+Lance	Kendricks	Green Bay Packers
+Fozzy	Whittaker	Carolina Panthers
+Coby	Fleener	New Orleans Saints
+Taywan	Taylor	Tennessee Titans
+C.J.	Ham	Minnesota Vikings
+Maxx	Williams	Baltimore Ravens
+J.J.	Nelson	Arizona Cardinals
+Antonio	Gates	Los Angeles Chargers
+Samaje	Perine	Washington Redskins
+Mike	Wallace	Baltimore Ravens
+Jermaine	Gresham	Arizona Cardinals
+Kenny	Britt	Cleveland Browns
+Brandon	Marshall	New York Giants
+Seth	Roberts	Oakland Raiders
+Orleans	Darkwa	New York Giants
+Laquon	Treadwell	Minnesota Vikings
+Corey	Grant	Jacksonville Jaguars
+Eli	Rogers	Pittsburgh Steelers
+John	Brown	Arizona Cardinals
+Derrick	Henry	Tennessee Titans
+Kenny	Stills	Miami Dolphins
+Aldrick	Robinson	San Francisco 49ers
+Mike	Tolbert	Buffalo Bills
+Tommylee	Lewis	New Orleans Saints
+Rhett	Ellison	New York Giants
+Alex	Collins	Baltimore Ravens
+Justin	Hardy	Atlanta Falcons
+Cordarrelle	Patterson	Oakland Raiders
+Keelan	Cole	Jacksonville Jaguars
+Doug	Martin	Tampa Bay Buccaneers
+Kenjon	Barner	Philadelphia Eagles
+Derek	Carrier	Los Angeles Rams
+Bobby	Rainey	Baltimore Ravens
+Chris	Johnson	Arizona Cardinals
+Jeremy	Hill	Cincinnati Bengals
+Josh	Doctson	Washington Redskins
+Jared	Abbrederis	Detroit Lions
+Demarcus	Robinson	Kansas City Chiefs
+Eric	Decker	Tennessee Titans
+Corey	Clement	Philadelphia Eagles
+Thomas	Rawls	Seattle Seahawks
+Nick	Vannett	Seattle Seahawks
+David	Morgan	Minnesota Vikings
+Tyler	Boyd	Cincinnati Bengals
+Jeff	Heuerman	Denver Broncos
+Mack	Hollins	Philadelphia Eagles
+Brice	Butler	Dallas Cowboys
+Vance	McDonald	Pittsburgh Steelers
+James	O'Shaughnessy	Jacksonville Jaguars
+Richard	Rodgers	Green Bay Packers
+Garrett	Celek	San Francisco 49ers
+Marcus	Williams	New York Jets
+Corey	Davis	Tennessee Titans
+Brent	Celek	Philadelphia Eagles
+Johnny	Holton	Oakland Raiders
+Curtis	Samuel	Carolina Panthers
+Pharoh	Cooper	Los Angeles Rams
+Ifeanyi	Momah	Arizona Cardinals
+Michael	Hoomanawanui	New Orleans Saints
+Josh	Reynolds	Los Angeles Rams
+Levine	Toilolo	Atlanta Falcons
+Jarius	Wright	Minnesota Vikings
+Darrius	Heyward-Bey	Pittsburgh Steelers
+Kasen	Williams	Cleveland Browns
+Lawrence	Thomas	New York Jets
+Terrance	West	Baltimore Ravens
+C.J.	Uzomah	Cincinnati Bengals
+Deonte	Thompson	Buffalo Bills
+Branden	Oliver	Los Angeles Chargers
+Chris	Moore	Baltimore Ravens
+Chris	Thompson	Houston Texans
+Dan	Vitale	Cleveland Browns
+Deonte	Thompson	Chicago Bears
+Kerwynn	Williams	Arizona Cardinals
+Demetrius	Harris	Kansas City Chiefs
+Jordan	Taylor	Denver Broncos
+Tommy	Bohanon	Jacksonville Jaguars
+Trey	Burton	Philadelphia Eagles
+Josh	Bellamy	Chicago Bears
+Will	Tye	New York Jets
+Eddie	Lacy	Seattle Seahawks
+Roger	Lewis	New York Giants
+LeGarrette	Blount	Philadelphia Eagles
+Anthony	Fasano	Miami Dolphins
+Jamaal	Williams	Green Bay Packers
+Cody	Latimer	Denver Broncos
+Matt	Dayes	Cleveland Browns
+Kenyan	Drake	Miami Dolphins
+Darrell	Daniels	Indianapolis Colts
+Michael	Floyd	Minnesota Vikings
+Aaron	Jones	Green Bay Packers
+Zay	Jones	Buffalo Bills
+Adrian	Peterson	Arizona Cardinals
+Lee	Smith	Oakland Raiders
+Kenny	Golladay	Detroit Lions
+Jamal	Agnew	Detroit Lions
+C.J.	Fiedorowicz	Houston Texans
+Brandon	Tate	Buffalo Bills
+Troy	Niklas	Arizona Cardinals
+Justin	Hunter	Pittsburgh Steelers
+Jay	Prosch	Houston Texans
+Sammie	Coates	Cleveland Browns
+Alex	Erickson	Cincinnati Bengals
+James	Hanna	Dallas Cowboys
+Rob	Kelley	Washington Redskins
+Niles	Paul	Washington Redskins
+Jamize	Olawale	Oakland Raiders
+James	Develin	New England Patriots
+Andre	Holmes	Buffalo Bills
+Alfred	Morris	Dallas Cowboys
+Chester	Rogers	Indianapolis Colts
+Travis	Rudolph	New York Giants
+Leonte	Carroo	Miami Dolphins
+Tyler	Eifert	Cincinnati Bengals
+Danny	Woodhead	Baltimore Ravens
+Derrick	Coleman	Atlanta Falcons
+Geoff	Swaim	Dallas Cowboys
+Chris	Godwin	Tampa Bay Buccaneers
+Ross	Travis	Kansas City Chiefs
+Quan	Bray	Indianapolis Colts
+Taiwan	Jones	Buffalo Bills
+Tyler	Ervin	Houston Texans
+Dwayne	Washington	Detroit Lions
+Travaris	Cadet	New York Jets
+Mack	Brown	Washington Redskins
+ArDarius	Stewart	New York Jets
+Anthony	Sherman	Kansas City Chiefs
+T.J.	Yeldon	Jacksonville Jaguars
+Jerell	Adams	New York Giants
+Logan	Thomas	Buffalo Bills
+Michael	Burton	Chicago Bears
+Tavarres	King	New York Giants
+Andy	Janovich	Denver Broncos
+Willie	Snead	New Orleans Saints
+Sean	McGrath	Los Angeles Chargers
+Andre	Roberts	Atlanta Falcons
+Amara	Darboh	Seattle Seahawks
+Ryan	Switzer	Dallas Cowboys
+Cameron	Artis-Payne	Carolina Panthers
+Chris	Manhertz	Carolina Panthers
+Ben	Koyack	Jacksonville Jaguars
+Chad	Williams	Arizona Cardinals
+Bernard	Reedy	Tampa Bay Buccaneers
+Alan	Cross	Tampa Bay Buccaneers
+Chris	Matthews	Baltimore Ravens
+Eric	Weems	Tennessee Titans
+Daniel	Brown	Chicago Bears
+Aaron	Ripkowski	Green Bay Packers
+Tanner	McEvoy	Seattle Seahawks
+Nick	Williams	Atlanta Falcons
+Josh	Malone	Cincinnati Bengals
+Max	McCaffrey	Jacksonville Jaguars
+Patrick	DiMarco	Buffalo Bills
+Rod	Smith	Dallas Cowboys
+Akeem	Hunt	Kansas City Chiefs
+Kaelin	Clay	Buffalo Bills
+Isaiah	McKenzie	Denver Broncos
+Braxton	Miller	Houston Texans
+Jacob	Hollister	New England Patriots
+Jakeem	Grant	Miami Dolphins
+Dontrelle	Inman	Los Angeles Chargers
+Bryce	Treggs	Cleveland Browns
+Cole	Hikutini	San Francisco 49ers
+Griff	Whalen	Baltimore Ravens
+Keith	Smith	Dallas Cowboys
+Arrelious	Benn	Jacksonville Jaguars
+Allen	Robinson	Jacksonville Jaguars
+Clive	Walford	Oakland Raiders
+Matt	Hazel	Indianapolis Colts
+Michael	Roberts	Detroit Lions
+Kevin	White	Chicago Bears
+Ryan	Hewitt	Cincinnati Bengals
+Brian	Quick	Washington Redskins
+Jordan	Leslie	Cleveland Browns
+Phillip	Supernaw	Tennessee Titans
+Charone	Peake	New York Jets
+Tanner	Gentry	Chicago Bears
+Neal	Sterling	New York Jets
+Patrick	Ricard	Baltimore Ravens
+Luke	Stocker	Tampa Bay Buccaneers
+Marcus	Johnson	Philadelphia Eagles
+Elijhaa	Penny	Arizona Cardinals
+Cody	Core	Cincinnati Bengals
+Kendrick	Bourne	San Francisco 49ers
+Damiere	Byrd	Carolina Panthers
+Zach	Line	New Orleans Saints
+Xavier	Grimble	Pittsburgh Steelers
+Kevin	Zeitler	Cleveland Browns
+Marvin	Hall	Atlanta Falcons
+C.J.	Spiller	Kansas City Chiefs
+Adam	Shaheen	Chicago Bears
+Blake	Bell	Minnesota Vikings
+Stacy	Coley	Minnesota Vikings
+MarQueis	Gray	Miami Dolphins
+James	Conner	Pittsburgh Steelers
+Breshad	Perriman	Baltimore Ravens
+Cethan	Carter	Cincinnati Bengals
+Matt	LaCosse	New York Giants
+Mike	Williams	Los Angeles Chargers
+Noah	Brown	Dallas Cowboys
+Randall	Telfer	Cleveland Browns
+John	Ross	Cincinnati Bengals
+Zach	Zenner	Detroit Lions
+Jalston	Fowler	Tennessee Titans
+Vince	Mayle	Baltimore Ravens
+Hunter	Sharp	Denver Broncos
+Ricky	Seals-Jones	Arizona Cardinals
+Logan	Paulsen	San Francisco 49ers
+Greg	Olsen	Carolina Panthers
+Dwayne	Allen	New England Patriots
+Trevor	Davis	Green Bay Packers
+Corey	Coleman	Cleveland Browns
+Markus	Wheaton	Chicago Bears
+Sam	Martin	Detroit Lions
+Trumaine	Johnson	Los Angeles Rams
+Aqib	Talib	Denver Broncos
+Johnathan	Joseph	Houston Texans
+C.J.	Mosley	Baltimore Ravens
+Janoris	Jenkins	New York Giants
+Robert	McClain	Tampa Bay Buccaneers
+Lamarcus	Joyner	Los Angeles Rams
+Cameron	Jordan	New Orleans Saints
+Damarious	Randall	Green Bay Packers
+Jason	McCourty	Cleveland Browns
+Carlos	Dunlap	Cincinnati Bengals
+Dylan	Cole	Houston Texans
+Telvin	Smith	Jacksonville Jaguars
+Ryan	Kerrigan	Washington Redskins
+John	Simon	Indianapolis Colts
+Adrian	Amos	Chicago Bears
+Jimmy	Smith	Baltimore Ravens
+Justin	Coleman	Seattle Seahawks
+William	Jackson	Cincinnati Bengals
+Byron	Jones	Dallas Cowboys
+Marshon	Lattimore	New Orleans Saints
+Eddie	Jackson	Chicago Bears
+Earl	Thomas	Seattle Seahawks
+Barry	Church	Jacksonville Jaguars
+Jalen	Mills	Philadelphia Eagles
+Zach	Brown	Washington Redskins
+Joe	Schobert	Cleveland Browns
+Christian	Kirksey	Cleveland Browns
+Preston	Brown	Buffalo Bills
+Ryan	Shazier	Pittsburgh Steelers
+Blake	Martinez	Green Bay Packers
+Darron	Lee	New York Jets
+Hayes	Pullard	Los Angeles Chargers
+Bobby	Wagner	Seattle Seahawks
+Deion	McCourty	New England Patriots
+Wesley	Woodyard	Tennessee Titans
+K.J.	Wright	Seattle Seahawks
+Myles	Jack	Jacksonville Jaguars
+Nick	Vigil	Cincinnati Bengals
+Kyle	Van Noy	New England Patriots
+Antonio	Morrison	Indianapolis Colts
+Luke	Kuechly	Carolina Panthers
+Jatavis	Brown	Los Angeles Chargers
+Danny	Trevathan	Chicago Bears
+Jaquiski	Tartt	San Francisco 49ers
+Keanu	Neal	Atlanta Falcons
+Brandon	Marshall	Denver Broncos
+Christian	Jones	Chicago Bears
+Avery	Williamson	Tennessee Titans
+Daniel	Sorensen	Kansas City Chiefs
+Jaylon	Smith	Dallas Cowboys
+Matthias	Farley	Indianapolis Colts
+Kendell	Beckwith	Tampa Bay Buccaneers
+Marcus	Maye	New York Jets
+Nigel	Bradham	Philadelphia Eagles
+Karl	Joseph	Oakland Raiders
+Reshad	Jones	Miami Dolphins
+Vincent	Rey	Cincinnati Bengals
+Ramon	Humber	Buffalo Bills
+Benardrick	McKinney	Houston Texans
+Reggie	Nelson	Oakland Raiders
+Malcolm	Jenkins	Philadelphia Eagles
+Mychal	Kendricks	Philadelphia Eagles
+Landon	Collins	New York Giants
+Khalil	Mack	Oakland Raiders
+B.J.	Goodson	New York Giants
+Cory	James	Oakland Raiders
+Alec	Ogletree	Los Angeles Rams
+Vince	Williams	Pittsburgh Steelers
+Kevin	Byard	Tennessee Titans
+Ron	Parker	Kansas City Chiefs
+Darqueze	Dennard	Cincinnati Bengals
+Derrick	Johnson	Kansas City Chiefs
+Sean	Davis	Pittsburgh Steelers
+Jordan	Poyer	Buffalo Bills
+Kyle	Fuller	Chicago Bears
+Christopher	Conte	Tampa Bay Buccaneers
+Thomas	Davis	Carolina Panthers
+Jamar	Taylor	Cleveland Browns
+Terrance	Mitchell	Kansas City Chiefs
+DeForest	Buckner	San Francisco 49ers
+Sean	Lee	Dallas Cowboys
+NaVorro	Bowman	San Francisco 49ers
+Dontae	Johnson	San Francisco 49ers
+Shaq	Thompson	Carolina Panthers
+Kareem	Jackson	Houston Texans
+Tony	Jefferson	Baltimore Ravens
+Kenny	Vaccaro	New Orleans Saints
+Ha Ha	Clinton-Dix	Green Bay Packers
+Lawrence	Timmons	Miami Dolphins
+A.J.	Klein	New Orleans Saints
+Vernon	Hargreaves	Tampa Bay Buccaneers
+Trey	Flowers	New England Patriots
+Karlos	Dansby	Arizona Cardinals
+Patrick	Chung	New England Patriots
+Eric	Weddle	Baltimore Ravens
+Justin	Simmons	Denver Broncos
+Lavonte	David	Tampa Bay Buccaneers
+Trevor	Williams	Los Angeles Chargers
+Darryl	Skrine	New York Jets
+Micah	Hyde	Buffalo Bills
+Todd	Davis	Denver Broncos
+Kam	Chancellor	Seattle Seahawks
+Justin	Houston	Kansas City Chiefs
+Adrian	Phillips	Los Angeles Chargers
+Derrick	Kindred	Cleveland Browns
+Brian	Poole	Atlanta Falcons
+Jeff	Heath	Dallas Cowboys
+D.J.	Swearinger	Washington Redskins
+Jason	Pierre-Paul	New York Giants
+Patrick	Onwuasor	Baltimore Ravens
+Darian	Thompson	New York Giants
+Tyrann	Mathieu	Arizona Cardinals
+Leonard	Williams	New York Jets
+Damon	Harrison	New York Giants
+Malcolm	Butler	New England Patriots
+Calais	Campbell	Jacksonville Jaguars
+Michael	Mitchell	Pittsburgh Steelers
+Mike	Hilton	Pittsburgh Steelers
+Jimmie	Ward	San Francisco 49ers
+Darian	Stewart	Denver Broncos
+Shaquill	Griffin	Seattle Seahawks
+Andre	Hal	Houston Texans
+Zach	Cunningham	Houston Texans
+Jamie	Collins	Cleveland Browns
+Korey	Toomer	Los Angeles Chargers
+Tashaun	Gipson	Jacksonville Jaguars
+Melvin	Ingram	Los Angeles Chargers
+K'Waun	Williams	San Francisco 49ers
+Elandon	Roberts	New England Patriots
+Mason	Foster	Washington Redskins
+Tre'Davious	White	Buffalo Bills
+Keenan	Robinson	New York Giants
+Bennie	Logan	Kansas City Chiefs
+Morris	Claiborne	New York Jets
+Justin	Ellis	Oakland Raiders
+Anthony	Brown	Dallas Cowboys
+Michael	Brockers	Los Angeles Rams
+Craig	Robertson	New Orleans Saints
+Leonard	Johnson	Buffalo Bills
+Lardarius	Webb	Baltimore Ravens
+D.J.	Reader	Houston Texans
+Rashaan	Melvin	Indianapolis Colts
+Muhammad	Wilkerson	New York Jets
+Chandler	Jones	Arizona Cardinals
+Matt	Judon	Baltimore Ravens
+Shawn	Williams	Cincinnati Bengals
+Demarcus	Lawrence	Dallas Cowboys
+Kurt	Coleman	Carolina Panthers
+Morgan	Burnett	Green Bay Packers
+Marcus	Williams	New Orleans Saints
+George	Iloka	Cincinnati Bengals
+Allen	Bailey	Kansas City Chiefs
+Jordan	Hicks	Philadelphia Eagles
+Michael	Pierce	Baltimore Ravens
+Josh	Jones	Green Bay Packers
+T.J.	Watt	Pittsburgh Steelers
+Shareece	Wright	Buffalo Bills
+Dominique	Rodgers-Cromartie	New York Giants
+Bruce	Irvin	Oakland Raiders
+Vonn	Bell	New Orleans Saints
+Grady	Jarrett	Atlanta Falcons
+Rashard	Robinson	San Francisco 49ers
+Cameron	Heyward	Pittsburgh Steelers
+Jabrill	Peppers	Cleveland Browns
+Alex	Okafor	New Orleans Saints
+Justin	Evans	Tampa Bay Buccaneers
+Patrick	Robinson	Philadelphia Eagles
+Jourdan	Lewis	Dallas Cowboys
+Adoree'	Jackson	Tennessee Titans
+Desmond	King	Los Angeles Chargers
+Xavien	Howard	Miami Dolphins
+Jake	Ryan	Green Bay Packers
+Briean	Boddy-Calhoun	Cleveland Browns
+Darryl	 Roberts	New York Jets
+Solomon	 Thomas	San Francisco 49ers
+Eddie	 Goldman	Chicago Bears
+Martrell	Spaight	Washington Redskins
+Akiem	 Hicks	Chicago Bears
+Jurrell	Casey	Tennessee Titans
+Daryl	Worley	Carolina Panthers
+Leonard	Floyd	Chicago Bears
+A.J.	Bouye	Jacksonville Jaguars
+Eric	Murray	Kansas City Chiefs
+Lawrence	Guy	New England Patriots
+Jerry	Hughes	Buffalo Bills
+Logan	Ryan	Tennessee Titans
+Phillip	Gaines	Kansas City Chiefs
+Nicholas	Morrow	Oakland Raiders
+Richard	Sherman	Seattle Seahawks
+Jabaal	Sheard	Indianapolis Colts
+Steve	McLendon	New York Jets
+Jalen	Ramsey	Jacksonville Jaguars
+Adarius	Glanton	Tampa Bay Buccaneers
+Emmanuel	Ogbah	Cleveland Browns
+Kenny	Clark	Green Bay Packers
+Ken	Crawley	New Orleans Saints
+Marcus	Gilchrist	Houston Texans
+Terrell	Suggs	Baltimore Ravens
+E.J.	Gaines	Buffalo Bills
+Vinny	Curry	Philadelphia Eagles
+Brent	Grimes	Tampa Bay Buccaneers
+Kevin	Minter	Cincinnati Bengals
+Jarran	Reed	Seattle Seahawks
+Clay	Matthews	Green Bay Packers
+Kentrell	Brice	Green Bay Packers
+Von	Miller	Denver Broncos
+Mike	Hull	Miami Dolphins
+Kasey	Redfern	Detroit Lions
+Kawann	Short	Carolina Panthers
+Nickell	Robey	Los Angeles Rams
+Bashaud	Breeland	Washington Redskins
+Marcus	Peters	Kansas City Chiefs
+Casey	Hayward	Los Angeles Chargers
+Malik	Hooker	Indianapolis Colts
+Kendall	Fuller	Washington Redskins
+William	Gholston	Tampa Bay Buccaneers
+Manti	Te'o	New Orleans Saints
+Aaron	Colvin	Jacksonville Jaguars
+Haason	Reddick	Arizona Cardinals
+Ndamukong	Suh	Miami Dolphins
+Jordan	Jenkins	New York Jets
+Chris	Harris	Denver Broncos
+James	Burgess	Cleveland Browns
+Vontae	Davis	Indianapolis Colts
+Rodney	McLeod	Philadelphia Eagles
+Earl	Mitchell	San Francisco 49ers
+Kyle	Williams	Buffalo Bills
+Devon	Kennard	New York Giants
+P.J.	Williams	New Orleans Saints
+Nick	Perry	Green Bay Packers
+Javon	Hargrave	Pittsburgh Steelers
+Frank	Zombo	Kansas City Chiefs
+Michael	Bennett	Seattle Seahawks
+Mario	Edwards	Oakland Raiders
+Cameron	Wake	Miami Dolphins
+Orlando	Scandrick	Dallas Cowboys
+Gerald	McCoy	Tampa Bay Buccaneers
+Montae	Nicholson	Washington Redskins
+Mitch	Unrein	Chicago Bears
+Brian	Orakpo	Tennessee Titans
+Brandon	Graham	Philadelphia Eagles
+Eric	Reid	San Francisco 49ers
+Brooks	Reed	Atlanta Falcons
+Bradley	Roby	Denver Broncos
+Kyle	Emanuel	Los Angeles Chargers
+Domata	Peko	Denver Broncos
+Quinton	Dunbar	Washington Redskins
+Bobby	McCain	Miami Dolphins
+William	Parks	Denver Broncos
+Duke	Riley	Atlanta Falcons
+Cassius	Marsh	New England Patriots
+Stephon	Gilmore	New England Patriots
+Cody	Davis	Los Angeles Rams
+Eli	Harold	San Francisco 49ers
+Connor	Barwin	Los Angeles Rams
+Kevin	King	Green Bay Packers
+Johnathan	Hankins	Indianapolis Colts
+Quinten	Rollins	Green Bay Packers
+Trevon	Coley	Cleveland Browns
+Da'Norris	Searcy	Tennessee Titans
+Shaq	Lawson	Buffalo Bills
+Pat	Sims	Cincinnati Bengals
+Jonathan	Casillas	New York Giants
+DaQuan	Jones	Tennessee Titans
+Shaquil	Barrett	Denver Broncos
+Matt	Milano	Buffalo Bills
+Brock	Coyle	San Francisco 49ers
+Al	Woods	Indianapolis Colts
+Preston	Smith	Washington Redskins
+Adam	Gotsis	Denver Broncos
+Derek	Wolfe	Denver Broncos
+Marquel	Lee	Oakland Raiders
+John	Johnson	Los Angeles Rams
+LeShaun	Sims	Tennessee Titans
+Josh	Norman	Washington Redskins
+Julius	Peppers	Carolina Panthers
+Nate	Hairston	Indianapolis Colts
+Alvin	Dupree	Pittsburgh Steelers
+Dalvin	Tomlinson	New York Giants
+Josh	Martin	New York Jets
+Bryce	Callahan	Chicago Bears
+Damien	Wilson	Dallas Cowboys
+David	Onyemata	New Orleans Saints
+Kayvon	Webster	Los Angeles Rams
+T.J.	Ward	Tampa Bay Buccaneers
+Chris	Baker	Tampa Bay Buccaneers
+Chris	Jones	Kansas City Chiefs
+Anthony	Hitchens	Dallas Cowboys
+Frank	Clark	Seattle Seahawks
+Robert	Ayers	Tampa Bay Buccaneers
+Brandon	Mebane	Los Angeles Chargers
+Darius	Philon	Los Angeles Chargers
+Dre	Kirkpatrick	Cincinnati Bengals
+Michael	Johnson	Cincinnati Bengals
+Jordan	Richards	New England Patriots
+Timmy	Jernigan	Philadelphia Eagles
+Eddie	Yarbrough	Buffalo Bills
+Desmond	Trufant	Atlanta Falcons
+Christian	Covington	Houston Texans
+Aaron	Donald	Los Angeles Rams
+Sheldon	Richardson	Seattle Seahawks
+Abry	Jones	Jacksonville Jaguars
+Chris	McCain	Los Angeles Chargers
+Derrick	Morgan	Tennessee Titans
+Danny	Shelton	Cleveland Browns
+Joe	Haden	Pittsburgh Steelers
+Kerry	Wynn	New York Giants
+Rasul	Douglas	Philadelphia Eagles
+Ibraheim	Campbell	Cleveland Browns
+Calvin	Munson	New York Giants
+Carl	Nassib	Cleveland Browns
+Ross	Cockrell	New York Giants
+Barkevious	Mingo	Indianapolis Colts
+Dexter	McDonald	Oakland Raiders
+Dontari	Poe	Atlanta Falcons
+Yannick	Ngakoue	Jacksonville Jaguars
+Mike	Pennel	New York Jets
+Davon	House	Green Bay Packers
+Ryan	Smith	Tampa Bay Buccaneers
+Marlon	Humphrey	Baltimore Ravens
+Prince	Amukamara	Chicago Bears
+Brennan	Scarlett	Houston Texans
+Duron	Harmon	New England Patriots
+Mike	Daniels	Green Bay Packers
+James	Cowser	Oakland Raiders
+J.J.	Watt	Houston Texans
+Clayton	Fejedelem	Cincinnati Bengals
+Jonathan	Jones	New England Patriots
+Kavon	Frazier	Dallas Cowboys
+Adolphus	Washington	Buffalo Bills
+Kevin	Johnson	Houston Texans
+Jordan	Willis	Cincinnati Bengals
+Deshazor	Everett	Washington Redskins
+Anthony	Levine	Baltimore Ravens
+Jeremiah	George	Indianapolis Colts
+Matt	Ioannidis	Washington Redskins
+Rey	Maualuga	Miami Dolphins
+Derrick	Shelby	Atlanta Falcons
+Maliek	Collins	Dallas Cowboys
+Matt	Longacre	Los Angeles Rams
+Tyeler	Davison	New Orleans Saints
+Josh	Mauro	Arizona Cardinals
+Dont'a	Hightower	New England Patriots
+Bradley	McDougald	Seattle Seahawks
+Chris	Smith	Cincinnati Bengals
+Eddie	Pleasant	Houston Texans
+Willie	Henry	Baltimore Ravens
+Shelby	Harris	Denver Broncos
+Captain	Munnerlyn	Carolina Panthers
+Josh	Hawkins	Green Bay Packers
+Malik	Jackson	Jacksonville Jaguars
+Corey	Peters	Arizona Cardinals
+T.J.	Green	Indianapolis Colts
+Tyrone	Crawford	Dallas Cowboys
+Quinton	Dial	Green Bay Packers
+Eli	Ankou	Jacksonville Jaguars
+Olivier	Vernon	New York Giants
+Damion	Square	Los Angeles Chargers
+Frostee	Rucker	Arizona Cardinals
+Sean	Smith	Oakland Raiders
+Dante	Fowler	Jacksonville Jaguars
+Dee	Ford	Kansas City Chiefs
+Kemal	Ishmael	Atlanta Falcons
+Robert	Quinn	Los Angeles Rams
+Patrick	Peterson	Arizona Cardinals
+Paul	Posluszny	Jacksonville Jaguars
+Terrell	McClain	Washington Redskins
+Pernell	McPhee	Chicago Bears
+Corey	Moore	Houston Texans
+Corey	Graham	Philadelphia Eagles
+Brandon	Williams	Baltimore Ravens
+Larry	Ogunjobi	Cleveland Browns
+J.J.	Wilcox	Pittsburgh Steelers
+Deatrich	Wise	New England Patriots
+Nate	Orchard	Cleveland Browns
+Davon	Godchaux	Miami Dolphins
+Kony	Ealy	New York Jets
+Clinton	McDonald	Tampa Bay Buccaneers
+Chris	Jones	San Francisco 49ers
+Derek	Barnett	Philadelphia Eagles
+Adam	Butler	New England Patriots
+Tanzel	Smart	Los Angeles Rams
+David	Irving	Dallas Cowboys
+Jamie	Meder	Cleveland Browns
+Xavier	Woods	Dallas Cowboys
+Quintin	Demps	Chicago Bears
+William	Hayes	Miami Dolphins
+Julian	Stanford	New York Jets
+Marcus	Cooper	Chicago Bears
+Blake	Countess	Los Angeles Rams
+Trae	Elston	Buffalo Bills
+Curtis	Riley	Tennessee Titans
+Cedric	Thornton	Buffalo Bills
+Corey	Liuget	Los Angeles Chargers
+Tenny	Palepoi	Los Angeles Chargers
+Chris	Maragos	Philadelphia Eagles
+Star	Lotulelei	Carolina Panthers
+Pierre	Desir	Indianapolis Colts
+Za'Darius	Smith	Baltimore Ravens
+Nick	Dzubnar	Los Angeles Chargers
+Michael	Wilhoite	Seattle Seahawks
+Kurtis	Drummond	Houston Texans
+Damontae	Kazee	Atlanta Falcons
+Erik	Walden	Tennessee Titans
+Myles	Garrett	Cleveland Browns
+Karl	Klug	Tennessee Titans
+Markus	Golden	Arizona Cardinals
+Juston	Burris	New York Jets
+Colin	Jones	Carolina Panthers
+Tramon	Williams	Arizona Cardinals
+Marwin	Evans	Green Bay Packers
+Cordrea	Tankersley	Miami Dolphins
+Tyler	Matakevich	Pittsburgh Steelers
+Adam	Jones	Cincinnati Bengals
+Xavier	Williams	Arizona Cardinals
+William	Gay	Pittsburgh Steelers
+Nigel	Harris	Los Angeles Chargers
+Andre	Branch	Miami Dolphins
+Stacy	McGee	Washington Redskins
+De'Vante	Harris	New Orleans Saints
+Michael	Thomas	Miami Dolphins
+Junior	Galette	Washington Redskins
+Kevin	Pierre-Louis	Kansas City Chiefs
+Nazair	Jones	Seattle Seahawks
+Jonathan	Bullard	Chicago Bears
+Ryan	Davis	Buffalo Bills
+Whitney	Mercilus	Houston Texans
+Vincent	Taylor	Miami Dolphins
+Ryan	Glasgow	Cincinnati Bengals
+John	Timu	Chicago Bears
+Jerrell	Freeman	Chicago Bears
+Fabian	Moreau	Washington Redskins
+Fletcher	Cox	Philadelphia Eagles
+Charles	Johnson	Carolina Panthers
+Michael	Davis	Los Angeles Chargers
+Kevon	Seymour	Carolina Panthers
+Ahkello	Witherspoon	San Francisco 49ers
+Morgan	Fox	Los Angeles Rams
+Josh	Shaw	Cincinnati Bengals
+Trey	Hendrickson	New Orleans Saints
+Jaylen	Watkins	Philadelphia Eagles
+Joel	Heath	Houston Texans
+Will	Compton	Washington Redskins
+Chris	Long	Philadelphia Eagles
+Noah	Spence	Tampa Bay Buccaneers
+David	Mayo	Carolina Panthers
+Carl	Davis	Baltimore Ravens
+Reggie	Ragland	Kansas City Chiefs
+Cory	Littleton	Los Angeles Rams
+Ethan	Westbrooks	Los Angeles Rams
+Dean	Lowry	Green Bay Packers
+Jeremy	Lane	Seattle Seahawks
+Rontez	Miles	New York Jets
+Brandon	Dunn	Houston Texans
+Austin	Ekeler	Los Angeles Chargers
+Byron	Maxwell	Miami Dolphins
+Elijhaa	Penny	Arizona Cardinals
+Kareem	Martin	Arizona Cardinals
+Reuben	Foster	San Francisco 49ers
+Charles	Harris	Miami Dolphins
+Sheldon	Rankins	New Orleans Saints
+Curtis	Grant	New York Giants
+Dawuane	Smoot	Jacksonville Jaguars
+Treyvon	Hester	Oakland Raiders
+Margus	Hunt	Indianapolis Colts
+Adrian	Colbert	San Francisco 49ers
+Austin	Johnson	Tennessee Titans
+Olsen	Pierre	Arizona Cardinals
+Marcell	Dareus	Buffalo Bills
+Rayshawn	Jenkins	Los Angeles Chargers
+Caleb	Brantley	Cleveland Browns
+Jonathan	Anderson	Chicago Bears
+Cornellius	Carradine	San Francisco 49ers
+Brice	McCain	Tennessee Titans
+Xavier	Cooper	San Francisco 49ers
+Brian	Price	Dallas Cowboys
+Benson	Mayowa	Dallas Cowboys
+Najee	Goode	Philadelphia Eagles
+Marcus	Williams	Houston Texans
+Eric	Berry	Kansas City Chiefs
+Nate	Ebner	New England Patriots
+Johnathan	Cyprien	Tennessee Titans
+Xavier	Woodson-Luster	Oakland Raiders
+Rodney	Gunter	Arizona Cardinals
+Willie	Young	Chicago Bears
+Rakeem	Nunez-Roches	Kansas City Chiefs
+Kyler	Fackrell	Green Bay Packers
+Ramik	Wilson	Kansas City Chiefs
+Marcus	Smith	Seattle Seahawks
+DeAndre	Houston-Carson	Chicago Bears
+Shalom	Luani	Oakland Raiders
+Takkarist	McKinley	Atlanta Falcons
+Michael	Jordan	Cleveland Browns
+Eric	Rowe	New England Patriots
+Stephon	Tuitt	Pittsburgh Steelers
+Samson	Ebukam	Los Angeles Rams
+Keith	Tandy	Tampa Bay Buccaneers
+Dekoda	Watson	San Francisco 49ers
+Donte	Deayon	New York Giants
+Benny	Cunningham	Chicago Bears
+Carl	Lawson	Cincinnati Bengals
+Joe	Walker	Philadelphia Eagles
+Nick	Kwiatkoski	Chicago Bears
+Robert	Thomas	New York Giants
+Terence	Garvin	Seattle Seahawks
+Nate	Palmer	Tennessee Titans
+Hassan	Ridgeway	Indianapolis Colts
+Jordan	Phillips	Miami Dolphins
+Tre	Madden	Seattle Seahawks
+Kyle	Love	Carolina Panthers
+Grover	Stewart	Indianapolis Colts
+Terrence	Fede	Miami Dolphins
+Lenzy	Pipkins	Green Bay Packers
+Leger	Douzable	San Francisco 49ers
+Leterrius	Walton	Pittsburgh Steelers
+KeiVarae	Russell	Cincinnati Bengals
+James	Onwualu	Los Angeles Chargers
+Elvis	Dumervil	San Francisco 49ers
+Tyrunn	Walker	Los Angeles Rams
+Brynden	Trawick	Tennessee Titans
+Kamu	Grugier-Hill	Philadelphia Eagles
+Eddie	Vanderdoes	Oakland Raiders
+Andre	Holmes	Buffalo Bills
+Ahmad	Brooks	Green Bay Packers
+Joe	Webb	Buffalo Bills
+Bronson	Kaufusi	Baltimore Ravens
+Dylan	Donahue	New York Jets
+Aaron	Lynch	San Francisco 49ers
+Justin	Durant	Dallas Cowboys
+Charles	Leno	Chicago Bears
+Kenny	Moore	Indianapolis Colts
+Sylvester	Williams	Tennessee Titans
+Kyle	Wilber	Dallas Cowboys
+Brian	Peters	Houston Texans
+Raheem	Mostert	San Francisco 49ers
+Ryan	Russell	Tampa Bay Buccaneers
+Adam	Humphries	Tampa Bay Buccaneers
+Trey	Edmunds	New Orleans Saints
+Kenyan	Drake	Miami Dolphins
+Justin	Hardee	New Orleans Saints
+Chris	Wormley	Baltimore Ravens
+Robert	Golden	Pittsburgh Steelers
+Dan	Vitale	Cleveland Browns
+Destiny	Vaeao	Philadelphia Eagles
+Damontre	Moore	Dallas Cowboys
+Nolan	Carroll	Dallas Cowboys
+Taco	Charlton	Dallas Cowboys
+Wes	Horton	Carolina Panthers
+Chris	Matthews	Baltimore Ravens
+Marcus	Williams	New York Jets
+Marquis	Flowers	New England Patriots
+Joe	Thomas	Green Bay Packers
+Joe	Vellano	Atlanta Falcons
+Bruce	Carter	New York Jets
+Garrison	Smith	Seattle Seahawks
+Roy	Miller	Kansas City Chiefs
+Steven	Nelson	Kansas City Chiefs
+Rafael	Bush	New Orleans Saints
+Brandon	King	New England Patriots
+Neiko	Thorpe	Seattle Seahawks
+James	O'Shaughnessy	Jacksonville Jaguars
+Sammie	Coates	Cleveland Browns
+Demetrious	Cox	Carolina Panthers
+Taywan	Taylor	Tennessee Titans
+Tony	McDaniel	San Francisco 49ers
+Peyton	Thompson	Jacksonville Jaguars
+David	Harris	New England Patriots
+Dexter	McDougle	Philadelphia Eagles
+Lamarr	Houston	Houston Texans
+Roy	Robertson-Harris	Chicago Bears
+Ufomba	Kamalu	Houston Texans
+Roosevelt	Nix	Pittsburgh Steelers
+Avery	Moss	New York Giants
+Brent	Urban	Baltimore Ravens
+Evander	Hood	Washington Redskins
+Chris	Carter	Washington Redskins
+Vince	Mayle	Baltimore Ravens
+Jordan	Todman	Houston Texans
+Jairus	Byrd	Carolina Panthers
+Patrick	Ricard	Baltimore Ravens
+Cre'von	LeBlanc	Chicago Bears
+Robert	Nelson	New York Jets
+Garrett	Celek	San Francisco 49ers
+Tye	Smith	Tennessee Titans
+Zak	DeOssie	New York Giants
+Stephen	Paea	Dallas Cowboys
+Erik	Harris	Oakland Raiders
+Keith	McGill	Oakland Raiders
+Joe	Cardona	New England Patriots
+Keith	Smith	Dallas Cowboys
+Corey	Nelson	Denver Broncos
+Matt	Dayes	Cleveland Browns
+Darrius	Heyward-Bey	Pittsburgh Steelers
+Cordarrelle	Patterson	Oakland Raiders
+Brittan	Golden	Arizona Cardinals
+Mack	Hollins	Philadelphia Eagles
+Andy	Janovich	Denver Broncos
+Lorenzo	Jerome	San Francisco 49ers
+Jared	Norris	Carolina Panthers
+Taiwan	Jones	Buffalo Bills
+Tyler	Kroft	Cincinnati Bengals
+Chris	Milton	Indianapolis Colts
+Roger	Lewis	New York Giants
+Cooper	Kupp	Los Angeles Rams
+Branden	Jackson	Seattle Seahawks
+Isaiah	Johnson	Tampa Bay Buccaneers
+James	Harrison	Pittsburgh Steelers
+Stefan	McClure	Washington Redskins
+Anthony	Lanier	Washington Redskins
+Rod	Smith	Dallas Cowboys
+Will	Clarke	Tampa Bay Buccaneers
+Sheldon	Day	Jacksonville Jaguars
+Derek	Watt	Los Angeles Chargers
+Shamarko	Thomas	Buffalo Bills
+Corey	Clement	Philadelphia Eagles
+Shane	Ray	Denver Broncos
+Rhett	Ellison	New York Giants
+Romeo	Okwara	New York Giants
+Cameron	Lynch	Tampa Bay Buccaneers
+Jeff	Janis	Green Bay Packers
+Robert	Blanton	Buffalo Bills
+Charles	Tapper	Dallas Cowboys
+Ed	Dickson	Carolina Panthers
+Sterling	Moore	New Orleans Saints
+Charley	Hughlett	Cleveland Browns
+Robert	Nkemdiche	Arizona Cardinals
+Chris	Banjo	New Orleans Saints
+Terrance	Smith	Kansas City Chiefs
+Isaiah	Crowell	Cleveland Browns
+Sealver	Siliga	Tampa Bay Buccaneers
+Coty	Sensabaugh	Pittsburgh Steelers
+Quincy	Wilson	Indianapolis Colts
+Brian	Cushing	Houston Texans
+Carlos	Watkins	Houston Texans
+Devante	Bond	Tampa Bay Buccaneers
+Tanner	McEvoy	Seattle Seahawks
+C.J.	Uzomah	Cincinnati Bengals
+Russell	Shepard	Carolina Panthers
+Jordan	Taylor	Denver Broncos
+Lerentee	McCray	Jacksonville Jaguars
+Johnny	Holton	Oakland Raiders
+Donald	Payne	Jacksonville Jaguars
+Tim	Williams	Baltimore Ravens
+Alterraun	Verner	Miami Dolphins
+Sharrod	Neasman	Atlanta Falcons
+Keelan	Cole	Jacksonville Jaguars
+Lance	Kendricks	Green Bay Packers
+Matt	Slater	New England Patriots
+Blair	Brown	Jacksonville Jaguars
+Duke	Johnson	Cleveland Browns
+Jarrod	Wilson	Jacksonville Jaguars
+Dominique	Hatfield	Los Angeles Rams
+Rashard	Higgins	Cleveland Browns
+Seth	Devalve	Cleveland Browns
+Shon	Coleman	Cleveland Browns
+Marqise	Lee	Jacksonville Jaguars
+Michael	Thomas	New Orleans Saints
+Rigoberto	Sanchez	Indianapolis Colts
+Nordly	Capi	New York Giants
+Benjamin	Watson	Baltimore Ravens
+Mike	Wallace	Baltimore Ravens
+Menelik	Watson	Denver Broncos
+Phillip	Supernaw	Tennessee Titans
+Tyrell	Williams	Los Angeles Chargers
+Ukeme	Eligwe	Kansas City Chiefs
+Zach	Miller	Chicago Bears
+DeMarcus	Walker	Denver Broncos
+Chad	Hansen	New York Jets
+Kyle	Long	Chicago Bears
+Bilal	Powell	New York Jets
+Senorise	Perry	Miami Dolphins
+Taylor	Gabriel	Atlanta Falcons
+Eric	Tomlinson	New York Jets
+Amari	Cooper	Oakland Raiders
+Josh	Reynolds	Los Angeles Rams
+Jehu	Chesson	Kansas City Chiefs
+Josh	Bellamy	Chicago Bears
+Ronald	Leary	Denver Broncos
+Niles	Paul	Washington Redskins
+Jonathan	Stewart	Carolina Panthers
+Arrelious	Benn	Jacksonville Jaguars
+Cliff	Avril	Seattle Seahawks
+Chris	Odom	Green Bay Packers
+Tanoh	Kansas City Chiefs
+Darius	Latham	Oakland Raiders
+Justin	Hamilton	Philadelphia Eagles
+Clark	Harris	Cincinnati Bengals
+David	Fluellen	Tennessee Titans
+Brandon	Williams	Arizona Cardinals
+Jamize	Olawale	Oakland Raiders
+Tanner	Buffalo Bills
+Joe	Mixon	Cincinnati Bengals
+Ricky	Jean-Francois	Green Bay Packers
+Dwayne	Harris	New York Giants
+Thomas	Hennessy	New York Jets
+De'Anthony	Thomas	Kansas City Chiefs
+Delano	Hill	Seattle Seahawks
+Marqui	Christian	Los Angeles Rams
+Claude	Pelon	New York Jets
+Cody	Latimer	Denver Broncos
+Marquette	King	Oakland Raiders
+Bryce	Hager	Los Angeles Rams
+Ahtyba	Rubin	Atlanta Falcons
+Mike	Tolbert	Buffalo Bills
+Jerel	Worthy	Buffalo Bills
+Ryan	Succop	Tennessee Titans
+Deshaun	Watson	Houston Texans
+C.J.	Goodwin	Atlanta Falcons
+D.J.	Alexander	Seattle Seahawks
+Bryan	Cox	Carolina Panthers
+Curtis	Samuel	Carolina Panthers
+Eric	Weems	Tennessee Titans
+Corey	Grant	Jacksonville Jaguars
+Damien	Williams	Miami Dolphins
+Tyler	Patmon	Jacksonville Jaguars
+Jordan	Evans	Cincinnati Bengals
+Damiere	Byrd	Carolina Panthers
+Morgan	Moses	Washington Redskins
+Xavier	Su'a-Filo	Houston Texans
+J.D.	McKissic	Seattle Seahawks
+Demario	Davis	New York Jets
+Riley	Dixon	Denver Broncos
+David	DeCastro	Pittsburgh Steelers
+L.J.	Fort	Pittsburgh Steelers
+Jonathan	Freeny	Baltimore Ravens
+A.J.	Derby	Denver Broncos
+Treston	Decoud	Houston Texans
+Ryan	Hewitt	Cincinnati Bengals
+Jordan	Matthews	Buffalo Bills
+Peyton	Barber	Tampa Bay Buccaneers
+Hau'oli	Kikaha	New Orleans Saints
+Nick	Sundberg	Washington Redskins
+Cameron	Brate	Tampa Bay Buccaneers
+Michael	Burton	Chicago Bears
+Billy	Turner	Denver Broncos
+Randall	Cobb	Green Bay Packers
+Dexter	McCoil	Los Angeles Chargers
+Trevor	Davis	Green Bay Packers
+Wil	Lutz	New Orleans Saints
+Josh	Harris	Atlanta Falcons
+Isaac	Rochell	Los Angeles Chargers
+David	King	Tennessee Titans
+Justin	Vogel	Green Bay Packers
+Jason	Verrett	Los Angeles Chargers
+Nathan	Stupar	New Orleans Saints
+Kenny	Wiggins	Los Angeles Chargers
+Mike	Williams	Los Angeles Chargers
+Jamaal	Williams	Green Bay Packers
+Justin	March-Lillard	Miami Dolphins
+Ka'imi	Fairbairn	Houston Texans
+Tyler	Ervin	Houston Texans
+Will	Fuller	Houston Texans
+Shane	Lechler	Houston Texans
+Braxton	Miller	Houston Texans
+Lawrence	Thomas	New York Jets
+Orleans	Darkwa	New York Giants
+Matt	Hazel	Indianapolis Colts
+Krishawn	Hogan	Indianapolis Colts
+Brandon	Fusco	San Francisco 49ers
+Marquise	Goodwin	San Francisco 49ers
+Leon	Hall	San Francisco 49ers
+Henry	Krieger Coble	Indianapolis Colts
+Brian	Hoyer	San Francisco 49ers
+Carlos	Hyde	San Francisco 49ers
+Asa	Jackson	San Francisco 49ers
+D.J.	Fluker	New York Giants
+Wayne	Gallman	New York Giants
+Donte	Moncrief	Indianapolis Colts
+Kyle	Juszczyk	San Francisco 49ers
+Daniel	Kilgore	San Francisco 49ers
+George	Kittle	San Francisco 49ers
+Elijah	Lee	San Francisco 49ers
+Robert	Turbin	Indianapolis Colts
+Ed	Stinson	New York Jets
+Anthony	Walker	Indianapolis Colts
+Michael	Bennett	Jacksonville Jaguars
+Mark	Nzeocha	San Francisco 49ers
+John	Jerry	New York Giants
+Aldrick	Robinson	San Francisco 49ers
+Tommy	Bohanon	Jacksonville Jaguars
+Joe	Staley	San Francisco 49ers
+Eric	Saubert	Atlanta Falcons
+Trent	Taylor	San Francisco 49ers
+Steven	Johnson	Baltimore Ravens
+Hardy	Nickerson	Cincinnati Bengals
+Justin	Pugh	New York Giants
+Doug	 Baldwin	Seattle Seahawks
+Patrick	Omameh	Jacksonville Jaguars
+Justin	Britt	Seattle Seahawks
+Jermey	Parnell	Jacksonville Jaguars
+Aldrick	Rosas	New York Giants
+Kasim	Edebali	Denver Broncos
+Sterling	Shepard	New York Giants
+Tyrique	Jarrett	Denver Broncos
+Zach	Kerr	Denver Broncos
+Blidi	Wreh-Wilson	Atlanta Falcons
+Jared	Veldheer	Arizona Cardinals
+Lafayette	Pitts	Jacksonville Jaguars
+Dewey	McDonald	Seattle Seahawks
+Shane	Vereen	New York Giants
+Dustin	Colquitt	Kansas City Chiefs
+Chris	Conley	Kansas City Chiefs
+Tyler	Ott	Seattle Seahawks
+Ben	Heeney	Houston Texans
+Paul	Richardson	Seattle Seahawks
+Morgan	Cox	Baltimore Ravens
+Kerwynn	Williams	Arizona Cardinals
+Nick	Martin	Houston Texans
+Akeem	Hunt	Kansas City Chiefs
+Jarvis	Jenkins	Kansas City Chiefs
+Jay	Prosch	Houston Texans
+Alex	Smith	Kansas City Chiefs
+Xavier	Grimble	Pittsburgh Steelers
+Luke	Willson	Seattle Seahawks
+Jaelen	Strong	Houston Texans
+Jermaine	Kearse	New York Jets
+Demetrius	Harris	Kansas City Chiefs
+James	Winchester	Kansas City Chiefs
+Scooby	Wright	Arizona Cardinals
+Derek	Carrier	Los Angeles Rams
+Brandon	McManus	Denver Broncos
+Gerald	Everett	Los Angeles Rams
+Charone	Peake	New York Jets
+Jaylen	Hill	Baltimore Ravens
+Trey	Burton	Philadelphia Eagles
+Demar	Dotson	Tampa Bay Buccaneers
+Brandon	Brooks	Philadelphia Eagles
+Austin	Howard	Baltimore Ravens
+Mike	Evans	Tampa Bay Buccaneers
+Rob	Havenstein	Los Angeles Rams
+Tyler	Higbee	Los Angeles Rams
+Bennie	Fowler	Denver Broncos
+Edmond	Robinson	New York Jets
+Troy	Hill	Los Angeles Rams
+Johnathan	Ford	Arizona Cardinals
+Ben	Garland	Atlanta Falcons
+Ali	Marpet	Tampa Bay Buccaneers
+Andrew	Whitworth	Los Angeles Rams
+Justin	Tucker	Baltimore Ravens
+Jermon	Bushrod	Miami Dolphins
+Patrick	Murray	Tampa Bay Buccaneers
+John	Denney	Miami Dolphins
+Jonathan	Weeks	Houston Texans
+Evan	Smith	Tampa Bay Buccaneers
+Michael	Crabtree	Oakland Raiders
+Terrance	West	Baltimore Ravens
+Patrick	DiMarco	Buffalo Bills
+Antonio	Hamilton	Oakland Raiders
+Jameis	Winston	Tampa Bay Buccaneers
+Stephen	Hauschka	Buffalo Bills
+Matt	Cassel	Tennessee Titans
+MarQueis	Gray	Miami Dolphins
+Kevin	Dodd	Tennessee Titans
+Nick	O'Leary	Buffalo Bills
+Rodney	Hudson	Oakland Raiders
+Brandon	Tate	Buffalo Bills
+Rishard	Matthews	Tennessee Titans
+Eric	Wood	Buffalo Bills
+Ja'Wuan	James	Miami Dolphins
+DeMarco	Murray	Tennessee Titans
+Jermaine	Gresham	Arizona Cardinals
+Dwight	Freeney	Seattle Seahawks
+Marshawn	Lynch	Oakland Raiders
+Darren	Sproles	Philadelphia Eagles
+Demetrius	McCray	Oakland Raiders
+Andrew	Gachkar	Carolina Panthers
+Cam	Newton	Carolina Panthers
+Ben	Jacobs	Carolina Panthers
+David	Parry	New Orleans Saints
+Trai	Turner	Carolina Panthers
+Fozzy	Whittaker	Carolina Panthers
+Donald	Penn	Oakland Raiders
+Lee	Smith	Oakland Raiders
+Aaron	Wallace	Tennessee Titans
+Reid	Ferguson	Buffalo Bills
+Daniel	Brown	Chicago Bears
+Deon	Bush	Chicago Bears
+DeAndre	Washington	Oakland Raiders
+Julius	Thomas	Miami Dolphins
+Tarik	Cohen	Chicago Bears
+Sherrick	McManis	Chicago Bears
+Chase	Roullier	Washington Redskins
+Adam	Shaheen	Chicago Bears
+Kendall	Wright	Chicago Bears
+Ronald	Darby	Philadelphia Eagles
+Tony	McRae	baltimoreRavens
+David	Bass	seattleSeahawks
+Trae	Elston	Philadelphia Eagles
+Zach	Ertz	Philadelphia Eagles
+D.J.	Humphries	Arizona Cardinals
+Andy	Dalton	Cincinnati Bengals
+Justin	Hardy	Atlanta Falcons
+Alex	Erickson	Cincinnati Bengals
+David	Johnson	Arizona Cardinals
+Brandon	LaFell	Cincinnati Bengals
+Austin	Hooper	Atlanta Falcons
+Elijah	Qualls	Philadelphia Eagles
+James	Develin	New England Patriots
+Phillip	Dorsett	New England Patriots
+Trey	Hopkins	Cincinnati Bengals
+Rick	Lovato	Philadelphia Eagles
+Wendell	Smallwood	Philadelphia Eagles
+Kevin	Huber	Cincinnati Bengals
+Chris	Thompson	Washington Redskins
+Trent	Williams	Washington Redskins
+Torrey	Smith	Philadelphia Eagles
+Geneo	Grissom	New England Patriots
+Halapoulivaati	Vaitai	Philadelphia Eagles
+Cedric	Ogbuehi	Cincinnati Bengals
+Derron	Smith	Cincinnati Bengals
+Kenny	Britt	Cleveland Browns
+Deon	King	Cleveland Browns
+Chris	Hogan	New England Patriots
+T.Y.	McGill	Cleveland Browns
+J.C.	Tretter	Cleveland Browns
+Harvey	Langi	New England Patriots
+Kasen	Williams	Cleveland Browns
+Ifeanyi	Momah	Arizona Cardinals
+Trevor	Reilly	New England Patriots
+Kevin	Zeitler	Cleveland Browns
+Andrew	Levitre	Atlanta Falcons
+Cole	Beasley	Dallas Cowboys
+Daniel	McCullers	Pittsburgh Steelers
+Vance	McDonald	Pittsburgh Steelers
+Travis	Frederick	Dallas Cowboys
+Arthur	Moats	Pittsburgh Steelers
+Chaz	Green	Dallas Cowboys
+Joe	Thuney	New England Patriots
+James	Hanna	Dallas Cowboys
+Justin	March-Lillard	Dallas Cowboys
+Devontae	Booker	Denver Broncos
+Alejandro	Villanueva	Pittsburgh Steelers
+Jamal	Carter	Denver Broncos
+Terron	Armstead	New Orleans Saints
+Jamaal	Charles	Denver Broncos
+Max	Garcia	Denver Broncos
+Adam	Bighill	New Orleans Saints
+Jerrol	Garcia-Williams	Denver Broncos
+Virgil	Green	Denver Broncos
+De'Angelo	Henderson	Denver Broncos
+Casey	Kreiter	Denver Broncos
+Isaiah	McKenzie	Denver Broncos
+Matt	Paradis	Denver Broncos
+Chris	Godwin	Tampa Bay Buccaneers
