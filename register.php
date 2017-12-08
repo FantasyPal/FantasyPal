@@ -1,6 +1,3 @@
-//Bryce Vokus 
-//Page to create user account
-
 <?php include('server.php'); ?>
 <!DOCTYPE html>
 <html>
@@ -15,7 +12,7 @@
 	
 	<form method="post" action="register.php">
 
-		<?php include('errors.php'); ?> <!-- Include errors.php to throw errors if fields left blank -->
+		<?php include('errors.php'); ?>
 
 		<div class="input-group">
 			<label>Username</label>
@@ -32,6 +29,14 @@
 		<div class="input-group">
 			<label>Confirm Password</label>
 			<input type="password" name="password_2">
+		</div>
+		<div class="input-group">
+			<label>What is the name of your favorite sports team?</label>
+			<input type="text" name="question1" value="<?php echo $question1; ?>">
+		</div>
+		<div class="input-group">
+			<label>What was the model of your first car?</label>
+			<input type="text" name="question2" value="<?php echo $question2; ?>">
 		</div>
 		<div class="input-group">
 			<button type="submit" class="btn" name="register">Register</button>

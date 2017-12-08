@@ -1,6 +1,3 @@
-//Bryce Vokus
-//Default PHP page 
-
 <?php 
 	session_start(); //start current session
 
@@ -46,6 +43,7 @@
 			<p>Welcome user: <strong><?php echo $_SESSION['username']; ?></strong></p>
 			<p> View our player <a href="rankings.php" style="color: red;">Rankings</a> </p>
 			<p> View our player <a href="statistics.php" style="color: red;">Statistics</a> </p>
+			<p> <a href="answersecurityquestions.php" style="color: red;">Change Password</a> </p>
 			<p> <a href="index.php?logout='1'" style="color: red;">Logout</a> </p>
 		<?php endif ?>
 	</div>
